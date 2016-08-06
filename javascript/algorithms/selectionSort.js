@@ -17,5 +17,5 @@ function selectionSort(array) {
   return array;
 }
 
-console.log(selectionSort([1, 4, 2, 5, 3, 6]))
+console.log(selectionSort([1, 4, 2, 5, 3, 6]));
 // [1, 2, 3, 4, 5, 6]
